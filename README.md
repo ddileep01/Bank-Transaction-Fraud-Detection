@@ -22,7 +22,7 @@ This project aims to detect fraudulent bank transactions using machine learning.
 1. Clone the repository:  
    ```bash
    git clone https://github.com/ddileep01/Bank-Transaction-Fraud-Detection.git
-   cd fraud-detection
+   cd Bank-Transaction-Fraud-Detection
    ```
 2. Install dependencies:  
    ```bash
